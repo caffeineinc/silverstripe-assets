@@ -2,6 +2,7 @@
 
 namespace SilverStripe\Assets\Shortcodes;
 
+use Exception;
 use Psr\SimpleCache\CacheInterface;
 use SilverStripe\Assets\File;
 use SilverStripe\Assets\Image;
